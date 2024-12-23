@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <a href="https://nixos.org">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NixOS/nixos-homepage/main/public/logo/nixos-hires.png">
